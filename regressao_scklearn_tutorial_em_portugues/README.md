@@ -1,18 +1,20 @@
-Machine Learning com Scikit Learn.
+# Machine Learning com Scikit Learn.
 
-Tutorial para iniciantes em portugues, usando a biblioteca Scikit Learn.
+Colaboração enviada por [gtteixeira](https://github.com/gtteixeira)
+
+## Tutorial para iniciantes em portugues, usando a biblioteca Scikit Learn.
 
 O objetivo deste tutorial é introduzir as principais funcionalidades da biblioteca Scikit Learn , em python.
 
-Este tutorial requer os seguintes pacotes:
+## Este tutorial requer os seguintes pacotes:
 
-Python versão 3.3+. 
-numpy versão 1.5+: http://www.numpy.org/
-scipy versão 0.10+: http://www.scipy.org/
-matplotlib versão 1.3+: http://matplotlib.org/
-scikit-learn versão 0.14+: http://scikit-learn.org.
+* Python versão 3.3+.
+* numpy versão 1.5+: http://www.numpy.org/
+* scipy versão 0.10+: http://www.scipy.org/
+* matplotlib versão 1.3+: http://matplotlib.org/
+* scikit-learn versão 0.14+: http://scikit-learn.org.
 
-Dataset utilizado. Fonte:
+## Dataset utilizado. Fonte:
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/
 
